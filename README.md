@@ -3,7 +3,9 @@
 ## App Demo
 
 A live demo is available for educational purposes on Hugging Face Spaces (It isn't working now since my Nvidia NIM API Key expired):
-[https://huggingface.co/spaces/ITESO-Deep-Learning/Financial_Agent](https://huggingface.co/spaces/ITESO-Deep-Learning/Financial_Agent)
+[https://huggingface.co/spaces/ITESO-Deep-Learning/Financial_Agent](https://huggingface.co/spaces/ITESO-Deep-Learning/Financial_Agent).
+
+Also, a live demo video is available on Youtube: [https://www.youtube.com/watch?v=y02GJOJgIfA](https://www.youtube.com/watch?v=y02GJOJgIfA)
 
 ## Project Organization
 
